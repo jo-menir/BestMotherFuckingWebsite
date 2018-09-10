@@ -1,0 +1,46 @@
+body 
+{
+ font-family:Open Sans,Arial;
+ color:#454545;
+ font-size:16px;
+ margin:2em auto;
+ max-width:800px;
+ padding:1em;
+ line-height:1.4;
+ text-align:justify
+}
+
+figure
+{
+	float: left;
+	margin: 0 10px 0 0;
+}
+
+figcaption
+{
+	font-size: 11px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.clear
+{
+	clear: both;
+}
+
+.kopimi
+{
+	display: block;
+	margin: auto;
+}
+
+.mfw
+{
+	color: green;
+}
+
+.wrong
+{
+	color: red;
+	text-decoration: underline;
+}
